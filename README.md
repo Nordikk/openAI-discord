@@ -27,11 +27,6 @@
    * `Bard`: Google Bard Model
 
 
-### Switch Persona
-
-![image](https://user-images.githubusercontent.com/91911303/223772334-7aece61f-ead7-4119-bcd4-7274979c4702.png)
-
-
 
 ### Mode
 
