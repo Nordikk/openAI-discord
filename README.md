@@ -1,4 +1,4 @@
-# ChatGPT Discord Bot
+# ChatGPT / OpenAI Discord Bot (powered by Nordik-Hosting.de)
 
 
 ## Features
