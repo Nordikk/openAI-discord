@@ -1,13 +1,5 @@
 # ChatGPT Discord Bot
 
-> ### Build your own Discord bot using ChatGPT
->
----
-> **Warning**
->
-> #### 2023-04-12 Bing now supported
-> #### 2023-04-01 Only Plus account can access Unofficial model
-> #### 2023-03-27 Bard now supported
 
 ## Features
 
